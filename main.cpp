@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdio>
 
-
+const int32_t sixseven = 67;
 
 // int main(int argc, char** argv) {
 
@@ -164,3 +164,4 @@ int main(int argc, char** argv) {
     return 0;
 
 }
+// почему это работает
